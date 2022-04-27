@@ -1,0 +1,20 @@
+[1mdiff --git a/capstone1.html b/capstone1.html[m
+[1mindex 9d29bc4..43b0b1c 100644[m
+[1m--- a/capstone1.html[m
+[1m+++ b/capstone1.html[m
+[36m@@ -72,7 +72,7 @@[m
+     <footer>[m
+         <img id="logo" src="logo.svg" alt="logo" width="9%" class="last">[m
+         <div class="footer">[m
+[31m-        <div><img src="icon-location.svg" alt=""><span class="one"> Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tepor <br>[m
+[32m+[m[32m        <div><img src="icon-location.svg" alt=""><span class="one"> Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit, sed do eiusmod tempor <br>[m
+          incididunt ut labore et dolore magna aliqua</span></div>[m
+          <div> <img src="icon-phone.svg" alt="logo" width="1%" class=""><span class="one"> +1-543-123-4567</span> <br><img src="icon-email.svg" alt="logo" width="1.2%"><span class="one">example@fylo.com</span> </div>[m
+             <div><p> About Us</p> <p> Jobs</p> <p> Press</p> <p>Blog</p></div> [m
+[36m@@ -81,4 +81,4 @@[m
+     </footer>[m
+     [m
+ </body>[m
+[31m-</html>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
