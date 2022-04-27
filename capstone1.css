@@ -1,0 +1,109 @@
+#fylo_design {
+    width: 150px;
+}
+body {
+    background-color: hsl(219, 30%, 18%);
+    color: white;
+    font-family: "open sans";
+}
+.header {
+    font-family: raleway;
+    font-weight: 400;
+}
+.header-text {
+    text-align: right;
+}
+
+.section1, .section2, .section3{
+    text-align: center
+}
+
+.section6{
+    align-items: center;
+    padding: 2em;
+    text-align: center;
+}
+
+.section2 {
+    padding-top: 18px;
+}
+
+.background {
+    background-image: url("bg-curvy-desktop.svg");
+    background-repeat: no-repeat
+}
+
+
+.background2 {
+    background-color:hsl(218, 28%, 13%) ;
+}
+
+
+.button {
+    background-color: hsl(198, 60%, 50%);
+    border-radius: 25px;
+    width: 150px;
+    height: 2em;
+    border-color:hsl(198, 60%, 50%); 
+}
+
+.text5 {
+    background-color: hsl(219, 30%, 18%) ;
+    margin-right: 1em;
+    width: 33%;
+    padding: 2em;
+
+}
+
+.imagestop, .imagesdown, .section4, .section5 {
+    display: flex;
+    flex-direction: row;
+    padding:  50px;
+}
+
+.section5 {
+    padding-top: 70px;
+}
+
+.quote {
+    width: 3%;
+    height:3%;
+    padding-left: 50px;
+}
+
+.profile {
+    display: inline;
+}
+.profile img {
+    width: 30px;
+    border-radius: 50%;
+}
+
+.email {
+    height: 2em;
+    width: 25em;
+    border-radius: 25px;
+}
+
+.section6 {
+    z-index: +2;
+    background-color: hsl(217, 28%, 15%);
+}
+
+.section7 {
+    background-color: background-color: hsl(218, 28%, 13%);
+}
+
+.last{
+    margin-bottom: 2em;
+    display: inline;
+}
+.one {
+    margin-left: 1em;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    margin: 2em;
+}
